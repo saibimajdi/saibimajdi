@@ -1,10 +1,9 @@
-### Hi there 👋
-## I'm Majdi!
+### Hi there, I'm Majdi! 👋
+
 <!--
 **saibimajdi/saibimajdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working as a Web Tech Lead at Riva.
 - 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on some web projects.
