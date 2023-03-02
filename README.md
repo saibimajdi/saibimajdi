@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a Web Tech Lead at Riva.
-- 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on some web projects.
 - 💬 Ask me about .NET and ASP.NET dev.
 - 📫 How to reach me: saibimajdi@outlook.com
