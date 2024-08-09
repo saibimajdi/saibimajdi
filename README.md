@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some web projects.
 - 💬 Ask me about .NET and ASP.NET dev.
 - 📫 How to reach me: saibimajdi@outlook.com
-
-![Majdi's github stats](https://github-readme-stats.vercel.app/api?username=saibimajdi&show_icons=true)
